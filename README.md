@@ -24,7 +24,6 @@ OpenAI (Chatbot)
 2. The frontend **sends user input** to OpenAI's API for processing.  
 3. OpenAI **generates a response** based on predefined prompts.  
 4. The response is **displayed in the frontend** and **stored in Supabase**.  
-5. The system can retrieve past interactions from Supabase for a better experience.  
 
 ## **Chatbot Prompt Configuration**  
 
